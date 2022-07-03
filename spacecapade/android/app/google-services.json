@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520288192960",
+    "project_id": "project-1105-1086",
+    "storage_bucket": "project-1105-1086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520288192960:android:e7d2d24ac528ae5bc1e025",
+        "android_client_info": {
+          "package_name": "com.example.spacecapade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520288192960-r856p67177nqsmqj21rncvtcq6ab19ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wR80qrPuiCN1Yk_HP8sll9shUO9qgoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520288192960-r856p67177nqsmqj21rncvtcq6ab19ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
